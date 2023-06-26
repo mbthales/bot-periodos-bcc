@@ -4,6 +4,7 @@ import dotenv from "dotenv";
 import { addRoleToUser, replyMessage } from "./utils/functions";
 
 dotenv.config();
+
 const { BOT_TOKEN, CHANNEL_ID } = process.env;
 
 const intents = [
