@@ -26,7 +26,7 @@ A Discord bot to assign roles to users based on their college semester.
 
 ### Running <a name="running"></a>
 
--  Run `yarn dev` or `npm dev`
+-  Run `yarn dev` or `npm run dev`
 
 ### How it Works <a name="how-it-works"></a>
 
